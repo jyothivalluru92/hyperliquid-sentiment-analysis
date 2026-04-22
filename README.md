@@ -45,6 +45,9 @@ Rule 2: The Contrarian Filter
 Finding: Short win rates climb to 59% during Extreme Greed.
 Action: When Sentiment crosses >80, freeze new Long positions and transition to trailing stop-losses to exit into retail FOMO liquidity.
 
+![Win Rate Analysis](outputs/win_rate_analysis.png)
+![Trader Clusters](outputs/trader_clusters.png)
+
 🤖 Machine Learning Bonus Results
 # 1. Predictive Accuracy: The Random Forest model achieved 61.16% accuracy in predicting next-day trader profitability.
 
