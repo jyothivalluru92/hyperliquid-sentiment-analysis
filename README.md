@@ -44,8 +44,6 @@ Action: During Extreme Fear (<25), enforce a 50% reduction in position size and 
 Rule 2: The Contrarian Filter
 Finding: Short win rates climb to 59% during Extreme Greed.
 Action: When Sentiment crosses >80, freeze new Long positions and transition to trailing stop-losses to exit into retail FOMO liquidity.
-
-![Win Rate Analysis](outputs/win_rate_analysis.png)
 ![Trader Clusters](outputs/trader_clusters.png)
 
 🤖 Machine Learning Bonus Results
